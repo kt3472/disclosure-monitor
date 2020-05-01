@@ -8,6 +8,9 @@
 
   ![dataset](./goingci.jpg)
   
+  - Slack API 링크 : https://api.slack.com/
+  
+  
 **2. ETF종목 호가 실시간 모니터링**
   - realtime_ETF_price_check_v01.py
   - Process
