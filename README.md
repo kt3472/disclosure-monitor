@@ -4,7 +4,7 @@
 
 **2. 상장종목 공시 실시간 모니터링**
 
-  ![data](./gongci.jpg)
+  ![dataset](./gongci.jpg)
   
 
 **3. ETF종목 호가 실시간 모니터링**
