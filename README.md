@@ -3,10 +3,14 @@
 
 
 **1. 상장종목 공시 실시간 모니터링**
+  - daily_disclosure_check_v05.py
+  - Process
 
   ![dataset](./goingci.jpg)
   
 **2. ETF종목 호가 실시간 모니터링**
+  - realtime_ETF_price_check_v01.py
+  - Process
 
   ![dataset](./price_check.jpg)
   
