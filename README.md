@@ -4,7 +4,7 @@
 
 **2. 상장종목 공시 실시간 모니터링**
 
-  ![dataset](./gongci.jpg)
+  ![dataset](./goingci.jpg)
 
 
   ![dataset](./gongci.jpg)
